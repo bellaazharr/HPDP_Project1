@@ -9,7 +9,7 @@ High Performance Data Processing
 | AIN NURNABILA BINTI MOHD AZHAR | A23CS0207 | Group Leader & Crawler Part A |
 | DAYANG | [ID] | Crawler Part B & Data Storage |
 | FARRA | [ID] | Data Cleaning & Optimization T1 |
-| SAFIYA | [ID] | Optimization T2 & Performance |
+| SAFIYA | A23CS0176 | Optimization T2 & Performance |
 
 ## Website
 https://www.mudah.my
